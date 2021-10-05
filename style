@@ -1,0 +1,66 @@
+<style>
+.card {
+	text-align:center;
+	background-color: #b8c0e7;
+	border-radius: 15px;
+	margin: 1rem 1rem 1rem 1rem;
+	padding-bottom: 1rem;
+}
+table {
+	width:100%;
+}
+
+td {
+	text-align:center;
+	background-color:a82fd5;
+	border-radius: 35px;
+td:
+}
+
+ul {
+	list-style-type: none;
+	margin:0px;
+	padding:0px;
+	overflow: hidden;
+	background-color:000000;
+}	
+	
+li {
+	float:left;
+}
+
+li a {
+	display:block;
+	color:white;
+	text-align: center;
+	padding:14px 16px;
+	
+	text-decoration: none;
+}
+@keyframes pokemon-up {
+
+0%,
+100% {
+	transform: translateY(0);
+	}
+50% {
+	transform: translateY(-.4rem);
+	}
+}
+td:hover {
+	background-color: #e2acef;
+}
+td:hover {
+	background-color: #e2acef;
+	animation:pokemon-up .3s;
+	cursor: pointer;
+}
+.fuego{
+	background-color:ec4b24;
+}
+.agua{
+
+}
+.bicho{
+
+}
